@@ -33,7 +33,7 @@ function run() {
 
 run()
 
-// console.log(d);
+// console.log(d) // ReferenceError: d is not defined
 
 const foo = 1
 var bar = 2 // Put on the window object
